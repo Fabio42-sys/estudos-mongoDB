@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "scripts": {
+    "start": "npm app.js",
+    "install": "npm install -g typescript"
+  }
+}
